@@ -3,7 +3,6 @@
 
 #include "ProcessHandler.h"
 #include "ParamsHandler.h"
-#include <stdio.h>
 
 class ProcessHandler;
 

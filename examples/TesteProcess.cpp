@@ -32,7 +32,6 @@ int TesteProcess::GetPriority(int totalPrice)
 
 int TesteProcess::Execute()
 {
-    printf("%s\n", this->message);
     return (count < 99) ? 99 : sleepCount;
     this->owner->
 }
